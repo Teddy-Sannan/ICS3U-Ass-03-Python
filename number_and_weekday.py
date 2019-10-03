@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # Created by: Teddy Sannan
-# Created on: September 2019
+# Created on: October 2019
 # This program takes user number
 #   and displys the weekday
 
