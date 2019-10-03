@@ -50,7 +50,7 @@ def main():
 
         # process
         elif number == 7:
-            # ouput
+            # output
             print()
             print("Sunday")
 
